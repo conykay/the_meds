@@ -2,10 +2,10 @@
 
 A  Flutter application.
 
-## Getting Started
+## Getting Started ?
 
 
-A few resources to get you are to Flutter projects:
+A few resources to get you started with Flutter projects:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
